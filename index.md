@@ -1,7 +1,7 @@
 
 #### Contact Information　
 
-```
+```js
 function email(){
 	return "luker.matt@gmail.com";
 }
@@ -9,7 +9,7 @@ function email(){
 
 #### Experience　
 
-```
+```js
 function currentSkills(){
 	return ["C#",
 		"ASP.NET Core",
