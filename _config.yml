@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
 title: mluker.com
-description: mluker.com
 
 github:
   is_project_page: false
