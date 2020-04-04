@@ -1,41 +1,23 @@
 
-####Javascript　
+#### Contact Information　
 
-```javascript
-function test(){
-	console.log("Hello world!");
+```
+function email(){
+	return "luker.matt@gmail.com";
 }
- 
-(function(){
-    var box = function(){
-        return box.fn.init();
-    };
+```
 
-    box.prototype = box.fn = {
-        init : function(){
-            console.log('box.init()');
+#### Experience　
 
-			return this;
-        },
-
-		add : function(str){
-			alert("add", str);
-
-			return this;
-		},
-
-		remove : function(str){
-			alert("remove", str);
-
-			return this;
-		}
-    };
-    
-    box.fn.init.prototype = box.fn;
-    
-    window.box =box;
-})();
-
-var testBox = box();
-testBox.add("jQuery").remove("jQuery");
+```
+function currentSkills(){
+	return ["C#",
+		"ASP.NET Core",
+		"ASP.NET",
+		"Angular",
+		"Terraform",
+		"DevOps",
+		"Azure",
+		"IoT"];
+}
 ```
