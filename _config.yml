@@ -8,3 +8,6 @@ description: ""
 
 twitter:
   username               : mluker
+
+exclude:  
+  - README.md
