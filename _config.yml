@@ -1,5 +1,17 @@
 theme: jekyll-theme-slate
 title: mluker.com
 
+navbar-links:
+  About:
+    - What we do: ""
+    - Join us: "join"    
+  News: "blog"
+  People: "people"
+  Projects: "projects"
+  Resources: "resources"
+  Events: "events"
+  Funding: "funding"
+  Forum: "forum"
+
 github:
   is_project_page: false
