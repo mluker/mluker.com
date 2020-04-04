@@ -6,8 +6,7 @@ title: mluker.com
 # Short description of your site
 description: ""
 
-twitter:
-  username               : mluker
+show_downloads: false
 
 exclude:  
   - README.md
