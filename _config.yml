@@ -1,1 +1,16 @@
 theme: jekyll-theme-time-machine
+
+# Name of website
+title: mluker.com
+
+# Short description of your site
+description: nothing more than a placeholder
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
+
