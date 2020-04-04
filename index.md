@@ -34,7 +34,8 @@ function overallSkills(){
 	return ["C#", "ASP.NET Core", "ASP.NET", "EF Core",
 		"API Development", "Microservices", "Angular",
 		"Terraform", "DevOps", "Azure", "IoT", "GIT",
-		"SAFe Agile", "Sitecore", ".NET MVC", "WebForms",
-		"JavaScript", "TypeScript", "Leading Projects and Teams"];
+		"SAFe Agile", "Sitecore", ".NET MVC", 
+		"WebForms", "JavaScript", "TypeScript", 
+		"Leading Projects and Teams"];
 }
 ```
