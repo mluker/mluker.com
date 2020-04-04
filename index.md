@@ -10,17 +10,20 @@ function social(){
 ```
 #### Active Experience
 ```js
-function currentlyActiveSkills(){
+function activeSkills(){
 	return ["C#",
 		"ASP.NET Core",
 		"ASP.NET",
 		"EF Core",
+		"API Development",
+		"Microservices",
 		"Angular",
 		"TypeScript",
 		"Terraform",
 		"DevOps",
 		"Azure",		
 		"IoT",
+		"GIT",
 		"SAFe Agile",
 		"Leading Projects and Teams"];
 }
@@ -29,20 +32,10 @@ function currentlyActiveSkills(){
 ```js
 function overallSkills(){
 	return ["C#",
-		"ASP.NET Core",
-		"ASP.NET",
-		"EF Core",
-		"Angular",
-		"Terraform",
-		"DevOps",
-		"Azure",		
-		"IoT",
-		"SAFe Agile"
-		"Sitecore",
-		".NET MVC",
-		"WebForms",
-		"JavaScript",
-		"TypeScript",
-		"Leading Projects and Teams"];
+		"ASP.NET Core", "ASP.NET", "EF Core",
+		"API Development", "Microservices", "Angular",
+		"Terraform", "DevOps", "Azure", "IoT", "GIT",
+		"SAFe Agile", "Sitecore", ".NET MVC", "WebForms",
+		"JavaScript", "TypeScript", "Leading Projects and Teams"];
 }
 ```
