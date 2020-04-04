@@ -31,8 +31,7 @@ function activeSkills(){
 #### Overall Experience
 ```js
 function overallSkills(){
-	return ["C#",
-		"ASP.NET Core", "ASP.NET", "EF Core",
+	return ["C#", "ASP.NET Core", "ASP.NET", "EF Core",
 		"API Development", "Microservices", "Angular",
 		"Terraform", "DevOps", "Azure", "IoT", "GIT",
 		"SAFe Agile", "Sitecore", ".NET MVC", "WebForms",
