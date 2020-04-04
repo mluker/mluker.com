@@ -2,4 +2,4 @@
 layout: default
 ---
 
-:o)
+Nothing to see here.
