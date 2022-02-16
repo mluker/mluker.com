@@ -21,7 +21,7 @@ function activeSkills(){
 		"TypeScript",
 		"Terraform",
 		"DevOps",
-		"Azure",		
+		"Azure",
 		"IoT",
 		"GIT",
 		"SAFe Agile",
@@ -34,8 +34,16 @@ function overallSkills(){
 	return ["C#", "ASP.NET Core", "ASP.NET", "EF Core",
 		"API Development", "Microservices", "Angular",
 		"Terraform", "DevOps", "Azure", "IoT", "GIT",
-		"SAFe Agile", "Sitecore", ".NET MVC", 
-		"WebForms", "JavaScript", "TypeScript", 
+		"SAFe Agile", "Sitecore", ".NET MVC",
+		"WebForms", "JavaScript", "TypeScript",
 		"Leading Projects and Teams"];
 }
 ```
+</br></br>
+<p style="text-align: center">
+<img src="./assets/badges/azure-solutions-architect-expert.png" width="150"/>
+<img src="./assets/badges/azure-devops-engineer-expert.png" width="150"/>
+<img src="./assets/badges/azure-administrator-associate.png" width="150"/>
+<img src="./assets/badges/azure-developer-associate.png" width="150"/>
+</p>
+
