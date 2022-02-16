@@ -39,7 +39,7 @@ function overallSkills(){
 		"Leading Projects and Teams"];
 }
 ```
-</br></br>
+<br><br>
 <p style="text-align: center">
 <img src="./assets/badges/azure-solutions-architect-expert.png" width="150"/>
 <img src="./assets/badges/azure-devops-engineer-expert.png" width="150"/>
