@@ -45,5 +45,6 @@ function overallSkills(){
 <img src="./assets/badges/azure-devops-engineer-expert.png" width="150"/>
 <img src="./assets/badges/azure-administrator-associate.png" width="150"/>
 <img src="./assets/badges/azure-developer-associate.png" width="150"/>
+<img src="./assets/badges/azure-certified-azure-cosmos-db-developer-specialty.png" width="150"/>
 </p>
 
