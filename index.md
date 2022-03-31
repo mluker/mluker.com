@@ -24,27 +24,18 @@ function activeSkills(){
 		"ASP.NET Core",
 		"ASP.NET",
 		"EF Core",
+		"Cosmos DB",
+		"SQL",
 		"API Development",
 		"Microservices",
 		"Angular",
 		"TypeScript",
-		"Terraform",
+		"TerraForm",
 		"DevOps",
 		"Azure",
 		"IoT",
 		"GIT",
 		"SAFe Agile",
-		"Leading Projects and Teams"];
-}
-```
-#### Overall Experience
-```js
-function overallSkills(){
-	return ["C#", "ASP.NET Core", "ASP.NET", "EF Core",
-		"API Development", "Microservices", "Angular",
-		"Terraform", "DevOps", "Azure", "IoT", "GIT",
-		"SAFe Agile", "Sitecore", ".NET MVC",
-		"WebForms", "JavaScript", "TypeScript",
 		"Leading Projects and Teams"];
 }
 ```
