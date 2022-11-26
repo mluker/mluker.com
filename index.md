@@ -17,26 +17,25 @@ function social(){
 	return "https://www.linkedin.com/in/matt-luker-a9595a1/";
 }
 ```
-#### Active Experience
+#### Relevant Experience
 ```js
-function activeSkills(){
-	return ["C#",
-		"ASP.NET Core",
-		"ASP.NET",
-		"EF Core",
-		"Cosmos DB",
-		"SQL",
-		"API Development",
-		"Microservices",
-		"Angular",
-		"TypeScript",
-		"TerraForm",
+function skills(){
+	return [
+		"Kubernetes",
+		"Containers",
+		"Docker",
+		"Networking",
 		"DevOps",
+		"GitOps",
+		"SecOps",
+		"Microservices",
+		"Cosmos DB",
 		"Azure",
-		"IoT",
-		"GIT",
-		"SAFe Agile",
-		"Leading Projects and Teams"];
+		"TerraForm",
+		"TypeScript",
+		"Golang",
+		"Shell Scripting",
+		"C#"];
 }
 ```
 
