@@ -35,7 +35,8 @@ function skills(){
 		"TypeScript",
 		"Golang",
 		"Shell Scripting",
-		"C#"];
+		"C#",
+		"Golang"];
 }
 ```
 
