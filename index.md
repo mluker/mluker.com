@@ -33,7 +33,7 @@ function skills(){
 		"Azure",
 		"TerraForm",
 		"TypeScript",
-		"Golang",
+		"Python",
 		"Shell Scripting",
 		"C#",
 		"Golang"];
