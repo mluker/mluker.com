@@ -4,6 +4,7 @@
 <img src="./assets/badges/azure-administrator-associate.png" width="100"/>
 <img src="./assets/badges/azure-developer-associate.png" width="100"/>
 <img src="./assets/badges/azure-certified-azure-cosmos-db-developer-specialty.png" width="100"/>
+<img src="./assets/badges/azure-ai-fundamentals.png" width="100"/>
 </p>
 <br>
 
