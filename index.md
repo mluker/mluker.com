@@ -15,7 +15,7 @@ function email(){
 }
 
 function social(){
-	return "https://www.linkedin.com/in/matt-luker-a9595a1/";
+	return "https://linkedin.com/in/matt-luker";
 }
 ```
 #### Relevant Experience
