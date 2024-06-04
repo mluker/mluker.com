@@ -9,36 +9,31 @@
 <br>
 
 #### Contact Information
-```js
-function email(){
-	return "luker.matt@gmail.com";
-}
+```python
+def email() -> str:
+    return 'luker.matt@gmail.com'
 
-function social(){
-	return "https://linkedin.com/in/matt-luker";
+def social() -> str:
+    return 'https://linkedin.com/in/matt-luker'
 }
 ```
 #### Relevant Experience
-```js
-function skills(){
-	return [
-		"Kubernetes",
-		"Containers",
-		"Docker",
-		"Networking",
-		"DevOps",
-		"GitOps",
-		"SecOps",
-		"Microservices",
-		"Cosmos DB",
-		"Azure",
-		"TerraForm",
-		"TypeScript",
-		"Python",
-		"Shell Scripting",
-		"C#",
-		"Golang"];
-}
+```python
+def skills() -> list[str]:
+    return [
+        'Azure',
+        'Architecture',
+        'Networking',
+        'Kubernetes',
+        'Containers',
+        'Microservices',
+        'TerraForm',
+        'Python',
+        'Shell Scripting',
+        'C#',
+        'Golang'
+        'DevOps',
+        'GitOps',]
 ```
 
 
