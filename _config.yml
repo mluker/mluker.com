@@ -1,16 +1,34 @@
-theme: jekyll-theme-slate
+# Site settings
+title: Matt Luker
+url: 'https://www.mluker.com'
+baseurl: ''
+profilepic: '/images/headshot.jpeg'
+bkimage: '/images/bk1s.jpg'
+font_awesome: 'b07c42aced.js'
 
-# Name of website
-title: mluker.com
+author:
+  name: 'Matt Luker'
+  email: luker.matt@gmail.com  
+  # twitter_username: mluker
+  github_username:  mluker
+  linkedin_username:  matt-luker
 
-# Short description of your site
-description: ""
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
 
-show_downloads: false
+sass:
+    sass_dir: _sass
+    style: compressed
 
-github:
-  is_project_page: false
-  repository_url: ""
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-exclude:  
-  - README.md
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
+
+
